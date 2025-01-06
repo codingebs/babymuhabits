@@ -5,18 +5,18 @@
 
 Baby-Mü Habits is a habit tracking app, which is Python-based and helps it's users to create, track, update, and analyze their daily/weekly goals. 
 
-Features:
+#Features:
 
 - Create, manage, delete habits.
 - Track/Select pre-defined habits.
 - Use several methods to analyze habits.
 - Store habit related data in SQLite db.
 
-Requirements:
+#Requirements:
 
 -Python 3.8 or higher
 
-Setup:
+#Setup:
 
 Option 1: Cloning of Repository
 -If you have access to Git:
@@ -34,19 +34,19 @@ Option 2: Manual Download of Code
 
 $ cd Habit Tracking App
 
-Installation of Dependencies:
+#Installation of Dependencies:
 
 Manual installation of the following in terms of use:
 -pytest
 -sqlite3
 
-Usage: 
+#Usage: 
 
 In order to run the application you need to start the habit tracker by executing main.py file:
 
 $ python main.py
 
-Adding Habits:
+#Adding Habits:
 
 In order to add habits, you need to select option 2 in the main menu 
 

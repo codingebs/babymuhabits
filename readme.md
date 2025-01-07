@@ -54,10 +54,15 @@ In order to run the application you need to start the habit tracker by executing
 $ python main.py
 
 Create habit: User can create a new habit by name and periodicity
+
 List available habits: User gets an overview of all available habits
+
 Complete habit: User can mark a habit as completed for that specific day
+
 Analyze habit: Gives insights to habits, like the longest streak
+
 Delete habit: User can remove habit by name
+
 Bye: User exits application
 
 # Project Strucure:
